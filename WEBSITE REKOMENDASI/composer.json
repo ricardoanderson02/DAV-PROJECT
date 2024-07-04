@@ -1,0 +1,17 @@
+{
+    "name": "prihandana/web_dav",
+    "autoload": {
+        "psr-4": {
+            "Prihandana\\WebDav\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NgurahPrihandana",
+            "email": "prihandana27@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.19"
+    }
+}
